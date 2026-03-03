@@ -1,0 +1,6 @@
+*   3dd5ba9 fix: menyelesaikan merge conflict antara v1 dan v2
+|\  
+| * e45b3d8 menambahkan komentar versi 1
+* | c9391cd feat: menambahkan komentar versi 2
+|/  
+* fc6134e inisiasi github
