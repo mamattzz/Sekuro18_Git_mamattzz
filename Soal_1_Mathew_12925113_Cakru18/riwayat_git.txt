@@ -1,3 +1,4 @@
+* 78f6fa3 chore: merapikan file txt ke dalam folder pengumpulan
 *   3dd5ba9 fix: menyelesaikan merge conflict antara v1 dan v2
 |\  
 | * e45b3d8 menambahkan komentar versi 1
